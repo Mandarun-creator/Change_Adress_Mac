@@ -183,4 +183,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## Auteur
 
-Développé par **Semih B.**, passionné de cybersécurité et de développement Python.
+Développé par **Gracia Mboma**, passionné de cybersécurité et de développement Python.

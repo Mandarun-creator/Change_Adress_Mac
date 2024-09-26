@@ -67,7 +67,7 @@ Suivez ces étapes pour installer et utiliser **ChangeAddressMac** sur un systè
    sudo mv changeadressmac.py /usr/local/bin/changeadressmac
 
 ## Utilisation
-**Afficher les interfaces réseau** :
+# Afficher les interfaces réseau
 
 Pour afficher toutes les interfaces réseau disponibles avec leurs adresses MAC, exécutez la commande suivante :
 ```bash

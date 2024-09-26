@@ -51,7 +51,7 @@ Suivez ces étapes pour installer et utiliser **ChangeAddressMac** sur un systè
 1. **Cloner le dépôt GitHub** :
    
    ```bash
-   git clone https://github.com/USERNAME/ChangeAddressMac.git
+   https://github.com/Mandarun-creator/Change_Adress_Mac.git
    ```
 
 2. **Naviguer dans le répertoire du projet** :

@@ -52,4 +52,16 @@ Suivez ces étapes pour installer et utiliser **ChangeAddressMac** sur un systè
    ```bash
    git clone https://github.com/USERNAME/ChangeAddressMac.git
 2. **Naviguer dans le répertoire du projet** :
-   
+   ```bash
+   cd ChangeAddressMac
+3. **Installer les dépendances Python** :
+   Installez les dépendances nécessaires à l'aide de pip
+   ```bash
+   pip install -r requirements.txt
+4. **Rendre le script exécutable** :
+   ```bash
+   chmod +x changeadressmac.py
+5. **Déplacement du script** :
+   (Optionnel) Déplacer le script dans /usr/local/bin pour l'utiliser depuis n'importe où
+   ```bash
+   sudo mv changeadressmac.py /usr/local/bin/changeadressmac
